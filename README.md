@@ -1,4 +1,4 @@
-                                                      ## 👾 Bem-vindo(a) ao meu perfil 🦾
+                                               ## 👾 Bem-vindo(a) ao meu perfil 🦾
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://s6.gifyu.com/images/bM0fU.gif" width="300px" alt="Cyberpunk Banner" title="falta feijão ainda ..." style="border: 2px solid #00ffcc; border-radius: 15px;"/>
@@ -54,6 +54,12 @@
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:lucas.ti.temp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-vieira-776a47326/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <h3 style="color: #00ffcc; font-family: monospace;">🎧 Minha vibe quando abro o terminal ...</h3>
+  <a href="https://open.spotify.com/intl-pt/album/3CrWNG2oqbEBHKAqfZP6CO" target="_blank">
+    <img src="https://img.shields.io/badge/OUVIR%20NO%20SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </div>
 
 
