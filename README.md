@@ -14,20 +14,6 @@
     </strong>
   </p>
 
-  <div style="width: 300px; height: 15px; background: #111; border: 1px solid #00ffcc; border-radius: 8px; overflow: hidden; margin: 10px auto;">
-    <div id="progress-bar" style="width: 0%; height: 100%; background: linear-gradient(90deg, #00ffcc, #0088aa); animation: loadBar 3s infinite;"></div>
-  </div>
-
-</div>
-
-<br>
-
-<div align="center" style="border: 1px solid #444; border-radius: 10px; padding: 10px; background-color: #0d1117;">
-  <a href="https://github.com/datarec-solutions">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datarec-solutions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datarec-solutions&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
 
 <br>
 
