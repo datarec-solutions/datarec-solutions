@@ -1,4 +1,4 @@
-                                                   ## 👾 Bem-vindo(a) ao meu perfil 🦾
+## 👾 Bem-vindo(a) ao meu perfil 🦾
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://s6.gifyu.com/images/bM0fU.gif" width="300px" alt="Cyberpunk Banner" title="falta feijão ainda ..." style="border: 2px solid #00ffcc; border-radius: 15px;"/>
